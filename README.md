@@ -2,6 +2,7 @@
 My entry for Acerola Jam 0 with the theme 'Aberration'.
 
 ### Links:
+[Playable in browser (Chrome)](https://neverhaste.itch.io/aberration)
 [Neverhaste at Itch.io](https://neverhaste.itch.io/)
 
 [Acerola Jam 0 at Itch.io](https://itch.io/jam/acerola-jam-0)
@@ -36,3 +37,6 @@ I have decided to make a colony-management style game with a simulated environme
 
 #### Issues
 - Mouse capture doesn't work.
+
+### Build 1
+- Tested & uploadet to Itch.
