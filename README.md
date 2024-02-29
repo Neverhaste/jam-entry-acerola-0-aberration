@@ -2,10 +2,10 @@
 My entry for Acerola Jam 0 with the theme 'Aberration'.
 
 ### Links:
-[Playable in browser (Chrome)](https://neverhaste.itch.io/aberration)
-[Neverhaste at Itch.io](https://neverhaste.itch.io/)
+- [Playable in browser (Chrome)](https://neverhaste.itch.io/aberration)
+- [Neverhaste at Itch.io](https://neverhaste.itch.io/)
 
-[Acerola Jam 0 at Itch.io](https://itch.io/jam/acerola-jam-0)
+- [Acerola Jam 0 at Itch.io](https://itch.io/jam/acerola-jam-0)
 
 # Dev Log
 I will try to keep a daily dev log, but I am also 100% sure that I will miss atleast a few days.
