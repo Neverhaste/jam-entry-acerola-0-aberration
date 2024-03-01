@@ -21,7 +21,7 @@ I have decided to make a colony-management style game with a simulated environme
 
 #### Issues
 - Missing terrain-following capability.
-- Risk of panning getting stuck.
+- Risk of panning getting stuck. TEST
 
 ### Selection & Selectables
 - Selection object
@@ -29,7 +29,7 @@ I have decided to make a colony-management style game with a simulated environme
 - Pulsating selected indication decal
 
 #### Issues
-- Shift & Ctrl is not registered.
+- Shift & Ctrl is not registered. REVISED
 
 ### Player Controller
 - Input handling for Top-down camera
